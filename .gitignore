@@ -1,0 +1,5 @@
+venv/
+journal_articles/
+
+# vscode
+*.code-workspace
